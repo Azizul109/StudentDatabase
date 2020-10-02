@@ -1,8 +1,25 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 This a project on "Student database management system"
 
 TEAM MEMBER: 
 
 NAME: MD AZIZUL ARIF;
+=======
+=======
+>>>>>>> 7d2a10c93e1715ba2969a8ad22188c635fbe404d
+This a project of Group 7(TEAM BLAST) on "Student database management system"
+
+TEAM MEMBER: 
+
+NAME: MD AZIZUL ARIF(TEAM LEADER; ID: 2017521460072)
+NAME: MD MIRAJ ISLAM(DEPUTY TEAM LEADER; ID: 2017521460070)
+
+
+<<<<<<< HEAD
+>>>>>>> 7d2a10c93e1715ba2969a8ad22188c635fbe404d
+=======
+>>>>>>> 7d2a10c93e1715ba2969a8ad22188c635fbe404d
 
 INSTALL: 
 

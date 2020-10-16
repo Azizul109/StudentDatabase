@@ -5,6 +5,9 @@ This a project on "Student database management system"
 NAME: MD AZIZUL ARIF;
 
 
+![Sample](https://raw.githubusercontent.com/Azizul109/StudentDatabase/master/images/1.PNG)
+
+
 INSTALL: 
 
 Application will not run, without same environment like me. So to run this application XAMPP server and PHPMYADMIN is must. Without same port as mine, and same database table like me system will show error. If you want to change port then need to change code inside java file, in that case you can open StudentManagement folder to NetBeans and change code. JDK alos need to be install on computer.
